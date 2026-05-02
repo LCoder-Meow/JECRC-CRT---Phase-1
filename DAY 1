@@ -1,6 +1,6 @@
-// 💎 PROBLEM 01: TEMPERATURE CONVERSION 🌡️
-// 📝 Task: Take Celsius input and convert to Fahrenheit
-// ==============================================
+// PROBLEM 1 TEMPERATURE CONVERSION 
+// Take Celsius input and convert to Fahrenheit
+
 
 #include<iostream>
 using namespace std;
@@ -17,10 +17,10 @@ int main(){
     
 }
 
-// ==============================================
-// 💎 PROBLEM 02: GLOBAL VS LOCAL VARIABLE 🌐
-// 📝 Task: Demonstrate scope and type casting
-// ==============================================
+
+// PROBLEM 2 GLOBAL VS LOCAL VARIABLE 
+// Demonstrate scope and type casting
+
 
 #include<iostream>
 using namespace std;
@@ -39,10 +39,10 @@ int main(){
     
 }
 
-// ==============================================
-// 💎 PROBLEM 03: LOGICAL & RELATIONAL OPERATORS ⚖️
-// 📝 Task: Check for Equilateral Triangle validity
-// ==============================================
+
+// PROBLEM 3 LOGICAL & RELATIONAL OPERATORS 
+// Check for Equilateral Triangle validity
+
 
 #include<iostream>
 using namespace std;
@@ -57,10 +57,9 @@ int main() {
     
 }
 
-// ==============================================
-// 💎 PROBLEM 04: THE SWAP LOGIC 🔄
-// 📝 Task: Exchange values using a temporary variable
-// ==============================================
+
+// PROBLEM 4 THE SWAP LOGIC
+// Exchange values using a temporary variable
 
 #include<iostream>
 using namespace std;
@@ -79,10 +78,10 @@ int main() {
     return 0;
 }
 
-// ==============================================
-// 💎 PROBLEM 05: AREA OF SHAPES 📐
-// 📝 Task: Selection logic for Circle, Rect, & Triangle
-// ==============================================
+
+// PROBLEM 5 AREA OF SHAPES 
+// Selection logic for Circle, Rect, & Triangle
+
 
 #include<iostream>
 using namespace std;
@@ -110,10 +109,10 @@ int main() {
     
 }
 
-// ==============================================
-// 💎 PROBLEM 06: SUM & AVERAGE 📊
-// 📝 Task: Calculate total and mean of 3 numbers
-// ==============================================
+
+// PROBLEM 6 SUM & AVERAGE 
+// Calculate total and mean of 3 numbers
+
 
 #include<iostream>
 using namespace std;
@@ -132,10 +131,10 @@ int main() {
     return 0;
 }
 
-// ==============================================
-// 💎 PROBLEM 07: LOGIN CREDENTIALS 🔐
-// 📝 Task: Verify ID and Password with logic gates
-// ==============================================
+
+// PROBLEM 7 LOGIN CREDENTIALS 
+// Verify ID and Password with logic gates
+
 
 #include<iostream>
 using namespace std;
