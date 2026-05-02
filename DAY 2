@@ -1,6 +1,5 @@
-// 💎 PROBLEM 01: THE IF CONDITION 🚦
-// 📝 Task: Verify if a user is eligible to vote
-// ==============================================
+// PROBLEM 1 THE IF CONDITION 
+// Verify if a user is eligible to vote
 
 #include <iostream>
 using namespace std;
@@ -16,10 +15,9 @@ int main() {
     return 0;
 }
 
-// ==============================================
-// 💎 PROBLEM 02: THE IF-ELSE BRANCH 🛤️
-// 📝 Task: Handle both eligible and ineligible cases
-// ==============================================
+
+// PROBLEM 2 THE IF-ELSE BRANCH 
+// Handle both eligible and ineligible cases
 
 #include <iostream>
 using namespace std;
@@ -38,10 +36,9 @@ int main() {
     return 0;
 }
 
-// ==============================================
-// 💎 PROBLEM 03: NESTED IF-ELSE LOGIC 🕸️
-// 📝 Task: Advanced validation for seniors and invalid ages
-// ==============================================
+
+// PROBLEM 3 NESTED IF-ELSE LOGIC 
+// Advanced validation for seniors and invalid ages
 
 #include <iostream>
 using namespace std;
@@ -66,10 +63,9 @@ int main() {
     return 0;
 }
 
-// ==============================================
-// 💎 PROBLEM 04: TERNARY OPERATOR ⚡
-// 📝 Task: Find the greater number in a single line
-// ==============================================
+
+// PROBLEM 4 TERNARY OPERATOR 
+// Find the greater number in a single line
 
 #include <iostream>
 using namespace std;
@@ -86,10 +82,10 @@ int main() {
     return 0;
 }
 
-// ==============================================
-// 💎 PROBLEM 05: CONTINUE STATEMENT ⏭️
-// 📝 Task: Print 1 to N while skipping multiples of 3
-// ==============================================
+
+// PROBLEM 5 CONTINUE STATEMENT 
+// Print 1 to N while skipping multiples of 3
+
 
 #include <iostream>
 using namespace std;
@@ -107,10 +103,9 @@ int main() {
      return 0;
 }
 
-// ==============================================
-// 💎 PROBLEM 06: BREAK STATEMENT 🛑
-// 📝 Task: Continuous sum until a negative number is entered
-// ==============================================
+
+// PROBLEM 6 BREAK STATEMENT 
+// Continuous sum until a negative number is entered
 
 #include <iostream>
 using namespace std;
@@ -131,10 +126,10 @@ int main() {
     return 0;
 }
 
-// ==============================================
-// 💎 PROBLEM 07: SMART HOME SYSTEM 🏠
-// 📝 Task: Logic for day/night and motion detection
-// ==============================================
+
+// PROBLEM 7 SMART HOME SYSTEM 🏠
+// Logic for day/night and motion detection
+
 
 #include <iostream>
 using namespace std;
@@ -160,10 +155,10 @@ int main() {
      return 0;
 }
 
-// ==============================================
-// 💎 PROBLEM 08: IVR SYSTEM SWITCH 📞
-// 📝 Task: Handle customer support menu selections
-// ==============================================
+
+// PROBLEM 8 IVR SYSTEM SWITCH 
+// Handle customer support menu selections
+
 
 #include <iostream>
 using namespace std;
